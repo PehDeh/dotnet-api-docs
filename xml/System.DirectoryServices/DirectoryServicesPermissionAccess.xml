@@ -15,9 +15,6 @@
     <AssemblyName>System.Security.Permissions</AssemblyName>
     <AssemblyVersion>8.0.0.0</AssemblyVersion>
   </AssemblyInfo>
-  <TypeForwardingChain>
-    <TypeForwarding From="System.DirectoryServices" FromVersion="4.0.0.0" To="System.Security.Permissions" ToVersion="8.0.0.0" FrameworkAlternate="dotnet-plat-ext-8.0;windowsdesktop-8.0" />
-  </TypeForwardingChain>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
   </Base>
